@@ -3,7 +3,10 @@ body{
   text-align: center;
 }
 input{
-  width:30px;
   height:20px;
-  text-align:right;
+  text-align:left;
+}
+
+li {
+  list-style: none;
 }
