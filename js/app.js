@@ -1,5 +1,5 @@
-alert("Hello World !");
-
-var newTask = document.getElementById("taskInput").value;
-
-console.log('newTask');
+// alert("Hello World !");
+//
+// var newTask = document.getElementById("taskInput").value;
+//
+// console.log('newTask');
